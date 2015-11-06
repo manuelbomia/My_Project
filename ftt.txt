@@ -1,0 +1,2 @@
+[{u'id': 42353977, u'indices': [0, 10], u'id_str': u'42353977', u'screen_name': u'KayKay121', u'name': u'KK_Rakitla95'}]
+[{u'indices': [56, 62], u'text': u'Trump'}, {u'indices': [63, 72], u'text': u'Election'}, {u'indices': [73, 78], u'text': u'News'}]

@@ -1,0 +1,5 @@
+{
+  "kiwis": 90, 
+  "apples": 20, 
+  "pears": 40
+}

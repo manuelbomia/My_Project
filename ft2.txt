@@ -1,0 +1,1 @@
+[{u'indices': [56, 62], u'text': u'Trump'}, {u'indices': [63, 72], u'text': u'Election'}, {u'indices': [73, 78], u'text': u'News'}]
